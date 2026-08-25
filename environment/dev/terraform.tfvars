@@ -5,7 +5,7 @@ resource = {
   }
 
   rg2 = {
-    name     = "ary4"
+    name     = "ary3"
     location = "southindia"
   }
 }
